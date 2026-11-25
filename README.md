@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# SynthHealth
-Programa que produz dados sintéticos para área da saúde
-=======
 # SynthHealth - EN
 ### Synthetic Healthcare Data Generator & Analytics Toolkit
 
@@ -332,6 +328,7 @@ Contributions, suggestions, and improvements are welcome.
 **Repository:**   
 **DOI:** To be assigned after Zenodo publication
 
+=======
 # SynthHealth - PTBR
 
 **Uma estrutura de código aberto para geração de dados sintéticos em saúde e avaliação de fidelidade estatística.**
